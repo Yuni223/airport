@@ -1,0 +1,9 @@
+추가
+- 	insert into table ( ) values ()
+검색
+- 	select *or' ' from table where ' '=' '
+	select * from table 
+수정
+- 	update 'table' set ' '=' ' where ' '=' '	- where 뒤 필드값을 찾아 앞 필드값을 변경
+레코드 삭제
+-	delete from table where ' '=' '	- table의 필드값이 ''인 레코드 삭제
